@@ -4,7 +4,7 @@
   <title><![CDATA[My blog]]></title>
   <link href="http://amri.github.io/atom.xml" rel="self"/>
   <link href="http://amri.github.io/"/>
-  <updated>2015-05-14T21:33:36+08:00</updated>
+  <updated>2015-05-15T07:42:41+08:00</updated>
   <id>http://amri.github.io/</id>
   <author>
     <name><![CDATA[Amri Hidayat]]></name>
@@ -18,7 +18,8 @@
     <link href="http://amri.github.io/blog/2015/05/14/my-first-post/"/>
     <updated>2015-05-14T21:25:11+08:00</updated>
     <id>http://amri.github.io/blog/2015/05/14/my-first-post</id>
-    <content type="html"><![CDATA[<p>This is my first post. Please ignore this.</p>
+    <content type="html"><![CDATA[<p>This is my first post. Please ignore this.
+<img src="http://amri.github.io/images/nature.jpg"></p>
 ]]></content>
   </entry>
   
