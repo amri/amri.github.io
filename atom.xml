@@ -4,7 +4,11 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://amri.github.io/atom.xml" rel="self"/>
   <link href="http://amri.github.io/"/>
+<<<<<<< HEAD
   <updated>2015-05-14T19:13:34+08:00</updated>
+=======
+  <updated>2015-05-14T19:16:46+08:00</updated>
+>>>>>>> 509c30d93003a09aca2f4382520a4ee40813ae52
   <id>http://amri.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -19,7 +23,12 @@
     <updated>2015-05-14T18:46:58+08:00</updated>
     <id>http://amri.github.io/blog/2015/05/14/test</id>
     <content type="html"><![CDATA[<p>updated
+<<<<<<< HEAD
 new</p>
+=======
+asd
+sa</p>
+>>>>>>> 509c30d93003a09aca2f4382520a4ee40813ae52
 ]]></content>
   </entry>
   
