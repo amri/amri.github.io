@@ -6,3 +6,4 @@ comments: false
 categories:
 ---
 This is my first post. Please ignore this.
+{% img /images/nature.jpg %}
